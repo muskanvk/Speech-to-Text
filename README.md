@@ -1,27 +1,6 @@
 # Speech-to-Text
 Speech Recognition in python
 
-This repository contains resources from The Ultimate Guide to Speech Recognition with Python tutorial on Real Python.
-.. image:: https://img.shields.io/pypi/v/SpeechRecognition.svg
-    :target: https://pypi.python.org/pypi/SpeechRecognition/
-    :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/status/SpeechRecognition.svg
-    :target: https://pypi.python.org/pypi/SpeechRecognition/
-    :alt: Development Status
-
-.. image:: https://img.shields.io/pypi/pyversions/SpeechRecognition.svg
-    :target: https://pypi.python.org/pypi/SpeechRecognition/
-    :alt: Supported Python Versions
-
-.. image:: https://img.shields.io/pypi/l/SpeechRecognition.svg
-    :target: https://pypi.python.org/pypi/SpeechRecognition/
-    :alt: License
-
-.. image:: https://api.travis-ci.org/Uberi/speech_recognition.svg?branch=master
-    :target: https://travis-ci.org/Uberi/speech_recognition
-    :alt: Continuous Integration Test Results
-
 Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
 Speech recognition engine/API support:
